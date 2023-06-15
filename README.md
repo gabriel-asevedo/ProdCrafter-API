@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">        
- product-category 
+ product-category-api
 <h1>
 
   ## About the project📜
