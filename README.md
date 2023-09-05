@@ -1,5 +1,5 @@
 <p align = "center"> 
-  <img alt = "Spring image" src = "assets/prct_spring.png" />
+  <img alt = "Spring image" src = "ProdCrafter-API/assets/prct_spring.png" />
 </p>
 
 <h1 align = "center">        
@@ -20,37 +20,37 @@ ProdCrafter-API
 
 ## Examples of features/operations
   ### Creation of endpoints
-<img alt = "Endpoint" src = "assets/prct_endpoint_1.png" />
-<img alt = "Endpoint2" src = "assets/prct_endpoint_2.png" />
+<img alt = "Endpoint" src = "ProdCrafter-API/assets/prct_endpoint_1.png" />
+<img alt = "Endpoint2" src = "ProdCrafter-API/assets/prct_endpoint_2.png" />
   
   ### Testing the service using the Postman tool for viewing in JSON format
   ```bash
 View of categories
 ```
-<img alt = "Postman" src = "assets/prct_postman_1.png" />
+<img alt = "Postman" src = "ProdCrafter-API/assets/prct_postman_1.png" />
   
   ```bash
 Products visualization
   ```
-<img alt = "Postman" src = "assets/prct_postman_1.2.png" />
+<img alt = "Postman" src = "ProdCrafter-API/assets/prct_postman_1.2.png" />
   
   ```bash
   Searching for products by ID 
   ```
-<img alt = "Postman" src = "assets/prct_postman_2.png" />
+<img alt = "Postman" src = "ProdCrafter-API/assets/prct_postman_2.png" />
   
 ### Code running through H2 database tables
   ```bash
   Database created
   ```
-<img alt = "Database" src = "assets/prct_h2_1.png" />
+<img alt = "Database" src = "ProdCrafter-API/assets/prct_h2_1.png" />
   
   ```bash
   List of categories
   ```
-<img alt = "Database" src = "assets/prct_h2_2.png" />
+<img alt = "Database" src = "ProdCrafter-API/assets/prct_h2_2.png" />
   
 ```bash
   End result of the project
   ```
-<img alt = "Database" src = "assets/prct_h2_3.png" />
+<img alt = "Database" src = "ProdCrafter-API/assets/prct_h2_3.png" />
